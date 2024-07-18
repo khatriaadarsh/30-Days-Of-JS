@@ -1,3 +1,5 @@
+// -=-=->Day 03: Control Structures
+
 // Activity 01: If-Else Statements
 // * Task 01: Write a program to check if a number is positive of negative or zero and log the result to the console.
 /*

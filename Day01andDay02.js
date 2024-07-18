@@ -1,3 +1,6 @@
+// -=-=->Day 01: Variable and Data Type
+// -=-=->Day 02: Operators 
+
 // console.log(2+2); //Output -> 4
 // console.log(4-3); //Output -> 1
 // console.log(3*5); //Output -> 15

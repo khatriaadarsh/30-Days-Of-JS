@@ -1,4 +1,4 @@
-//             ====> Day 05 <====
+//             ====> Day 05: Function <====
 //  ---> Task/Activities:
 
 // -=-=-> Activity 01: Function Declaration
